@@ -1,0 +1,5 @@
+event,severity
+ServerDown,2
+HighCPU,3
+DiskFull,4
+NetworkFailure,5
